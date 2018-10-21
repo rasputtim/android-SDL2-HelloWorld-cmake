@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:5:1-59:12
+INJECTED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:5:1-59:12
+INJECTED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:5:1-59:12
+INJECTED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:5:1-59:12
+INJECTED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:5:1-59:12
+INJECTED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:5:1-59:12
+INJECTED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:5:1-59:12
+	package
+		ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:6:5-29
+		INJECTED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml
+		INJECTED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:8:5-30
+		INJECTED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml
+		INJECTED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:5:11-69
+	android:versionCode
+		ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:7:5-28
+		INJECTED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml
+		INJECTED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:9:5-35
+uses-feature#0x00020000
+ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:12:5-54
+	android:glEsVersion
+		ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:12:19-51
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:17:22-63
+application
+ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:30:5-57:19
+	android:label
+		ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:30:18-50
+	android:hardwareAccelerated
+		ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:34:9-43
+	android:icon
+		ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:31:9-43
+	android:allowBackup
+		ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:32:9-35
+	android:theme
+		ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:33:9-67
+activity#org.libsdl.app.SDLActivity
+ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:40:9-56:20
+	android:label
+		ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:41:13-45
+	android:configChanges
+		ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:42:13-83
+	android:name
+		ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:40:19-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml:46:27-74
+uses-sdk
+INJECTED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml
+INJECTED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml
+INJECTED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml
+INJECTED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml
+		ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml
+		INJECTED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml
+		ADDED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml
+		INJECTED from /media/donolin/Dados/Biblioteca/Projetos/android-SDL2-HelloWorld-cmake/app/src/main/AndroidManifest.xml
